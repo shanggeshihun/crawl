@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../freeebuf/.idea/freeebuf.iml" filepath="$PROJECT_DIR$/../freeebuf/.idea/freeebuf.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../lianjia/.idea/lianjia.iml" filepath="$PROJECT_DIR$/../lianjia/.idea/lianjia.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/renren.iml" filepath="$PROJECT_DIR$/.idea/renren.iml" />
+    </modules>
+  </component>
+</project>

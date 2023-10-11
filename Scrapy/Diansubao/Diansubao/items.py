@@ -1,0 +1,50 @@
+# Define here the models for your scraped items
+#
+# See documentation in:
+# https://docs.scrapy.org/en/latest/topics/items.html
+
+import scrapy
+
+class DiansubaoItem(scrapy.Item):
+    # define the fields for your item here like:
+    name = scrapy.Field()
+    age = scrapy.Field()
+    article_link = scrapy.Field()
+    back_time = scrapy.Field()
+    category = scrapy.Field()
+    cdate = scrapy.Field()
+    company_id = scrapy.Field()
+    company_name = scrapy.Field()
+    company_web = scrapy.Field()
+    concrete_area = scrapy.Field()
+    ctime = scrapy.Field()
+    email = scrapy.Field()
+    id = scrapy.Field()
+    idcard = scrapy.Field()
+    intro = scrapy.Field()
+    manager = scrapy.Field()
+    mobile = scrapy.Field()
+    money = scrapy.Field()
+    name = scrapy.Field()
+    order_num = scrapy.Field()
+    pic1 = scrapy.Field()
+    pic1_info = scrapy.Field()
+    pic2 = scrapy.Field()
+    pic2_info = scrapy.Field()
+    pic3 = scrapy.Field()
+    pic3_info = scrapy.Field()
+    pic4 = scrapy.Field()
+    pic4_info = scrapy.Field()
+    pic5 = scrapy.Field()
+    pic5_info = scrapy.Field()
+    post_time = scrapy.Field()
+    remark = scrapy.Field()
+    remark2 = scrapy.Field()
+    review = scrapy.Field()
+    sex = scrapy.Field()
+    state = scrapy.Field()
+    time1 = scrapy.Field()
+    time2 = scrapy.Field()
+    time3 = scrapy.Field()
+    title = scrapy.Field()
+    to_company = scrapy.Field()
